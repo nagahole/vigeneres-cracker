@@ -1,5 +1,13 @@
 ## Vigenère Cipher Cracking
 
+<p align="center">
+  <img width="591" height="465" alt="offset 1" src="https://github.com/user-attachments/assets/76e72176-2abf-4bf7-a27d-6306bb90ae12" />
+  <br/>
+  <img width="701" height="164" alt="english frequencies" src="https://github.com/user-attachments/assets/0abc2b0f-fd48-4218-bb05-b380799777ee" />
+  <br/>
+  Performing frequency analysis to identify shifts for Vigenere columns
+</p>
+
 ### Approach
 
 I began by searching for repeating substrings in the ciphertext to apply the **Kasiski test**.  
